@@ -10,4 +10,9 @@
     --primary: 139 0 0; /* godRed */
     --primary-foreground: 232 230 227; /* parchment */
   }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
 }

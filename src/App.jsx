@@ -1,14 +1,13 @@
 import Intro from './components/Intro'
+import About from './components/About'
 import './index.css'
 
 function App() {
 
   return (
-    
-    <div className="min-h-screen bg-charcoal text-parchment flex items-center justify-center">
-      <div className="text-center">
-        <Intro />
-      </div>
+    <div className="min-h-screen bg-charcoal text-parchment">
+      <Intro />
+      <About />
     </div>
   )
 }

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 26 26 26; /* charcoal */
+    --foreground: 232 230 227; /* parchment */
+    --border: 74 85 104; /* slate */
+    --primary: 139 0 0; /* godRed */
+    --primary-foreground: 232 230 227; /* parchment */
+  }
+}

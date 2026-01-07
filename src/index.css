@@ -7,12 +7,13 @@
     --background: 26 26 26; /* charcoal */
     --foreground: 232 230 227; /* parchment */
     --border: 74 85 104; /* slate */
-    --primary: 139 0 0; /* godRed */
+    --primary: 139 0 0; /* red */
     --primary-foreground: 232 230 227; /* parchment */
   }
 
   body {
     margin: 0;
     padding: 0;
+    background-color: #1a1a1a;
   }
 }

@@ -1,5 +1,6 @@
 import Intro from './components/Intro'
 import About from './components/About'
+import Projects from './components/Projects'
 import './index.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="min-h-screen bg-charcoal text-parchment">
       <Intro />
       <About />
+      <Projects />
     </div>
   )
 }

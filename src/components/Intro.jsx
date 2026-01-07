@@ -12,8 +12,8 @@ export default function Intro() {
             <div className="max-w-3xl mx-auto">
                 <p className="text-lg font-merriweather text-left">
                     Coding bootcamp student currently working as a junior developer.
-                    Modernizing enterprise applications with technologies I'm learning in real-time
-                    because I learn best under pressure.
+                    Modernizing enterprise applications with Spec-Driven Development using Spec-Kit, 
+                    JavaScript/TypeScript, Next.js, OAuth2/MSAL, and TypeORM.
                 </p>
             </div>
         </div>

@@ -1,7 +1,7 @@
 export default function About() {
 
     return (
-        <div className="max-w-3xl mx-auto py-20 flex flex-col justify-center text-left items-center space-y-6 text-parchment">
+        <div className="mb-40 max-w-3xl mx-auto py-20 flex flex-col justify-center text-left items-center space-y-6 text-parchment">
             <div className="flex flex-col md:flex-row justify-center gap-4">
                 <span className="text-4xl -mt-1 font-cinzel font-semibold text-bronze">ᚨ</span>
                 <h1 className="font-cinzel text-4xl border-b-2 border-bronze">ABOUT</h1>
@@ -13,7 +13,7 @@ export default function About() {
             </p>
             <p className="font-merriweather text-lg">
                 Through my coding bootcamp, I've developed proficiency in React & JavaScript, and am currently
-                expanding into backend development with Java, Spring Boot, and SQL.
+                expanding into backend development with Java, Spring Boot, and MySQL.
             </p>
             <p className="font-merriweather text-lg">
                 I'm seeking a full-stack developer role where I can apply my technical troubleshooting experience
